@@ -1,0 +1,404 @@
+
+
+body {
+    background: #6F0000;
+    font-size:16px;
+    line-height: 20px;
+    color: #ffffff;
+    word-wrap:break-word !important;
+    font-family: sans;
+    font-style: italic;
+    }
+
+  
+     a:hover {
+        color:yellow;
+        font-size: 1em;
+    }
+
+
+    #fin {
+       
+    padding-top: 140em;
+    }
+    
+h2 {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 8px;
+}
+
+h3 {
+    font-size: 32px;
+    margin-left: 540px;
+    color: black;
+}
+h4 {
+text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+a {
+    color: #DB0505;
+    text-decoration: none;
+    text-decoration-color: none;
+}
+#container {
+    margin: 0 auto;
+}
+#mapasuiza {
+margin-left: 26em;
+}
+
+nav {
+    margin: 30px auto;
+    background-color: #DB0505;
+  box-shadow: 0px 3px 20px 3px #6B0202;
+
+}
+nav ul {
+    padding: 0;
+    margin: 0 auto;
+    list-style: none;
+    position: relative;
+    text-align: center;
+}
+nav ul li {
+    display:inline-block;
+    background-color: #DB0505;
+    }
+nav a {
+    display:block;
+    padding:0 20px; 
+    color:#FFF;
+    font-size:16px;
+    line-height: 60px;
+    text-decoration:none;
+}
+nav a:hover { 
+    background-color: #D64848; 
+}
+
+#barbara {
+text-align: left;
+position:absolute;
+margin-top: -7em;
+z-index: 4;
+}
+
+h1 {
+    position: relative;
+    color: green;
+    font-family: monospace;
+    font-size: 55px;
+    padding-left: 12em;
+     margin-top: 15px;
+}
+
+h4 {
+    font-style: 70px;
+    padding-left: 220PX;
+    margin-bottom: 7px;
+
+}
+#bluxus {
+    width: 1575px;
+    height:1371px;
+    position:absolute;
+    background-color: #DB0505;
+    margin-left: 92px;
+border-radius: 40px;
+position: absolute;
+z-index: 3;
+}
+
+.swanzsfukt {
+color: white;
+margin-left: 12px;
+}
+
+.swanzsfukt:hover {
+    color:yellow;
+
+}
+#kontaktdiv {
+    background-color:#6F0000 ;
+    border-style: solid;
+margin:auto;
+border-radius: 40px;
+border-color: black;
+height: 367px;
+width: 380px;
+}
+
+#bluxusvida {
+    width: 1575px;
+    height:4002px;
+    position:absolute;
+    background-color: #DB0505;
+    margin-left: 92px;
+border-radius: 40px;
+position: absolute;
+z-index: 3;
+}
+
+#bluxussites {
+    width: 1577px;
+    height:1300px;
+    position:absolute;
+    background-color: #DB0505;
+    margin-left: 92px;
+border-radius: 40px;
+position: absolute;
+z-index: 3;
+}
+
+#bluxuskontakt {
+    width: 1575px;
+    height:1351px;
+    position:absolute;
+    background-color: #DB0505;
+    margin-left: 92px;
+border-radius: 40px;
+position: absolute;
+z-index: 3;
+}
+
+#greyy {
+    background-color: #6F0000;
+    color: yellow;
+}
+
+#imgheader {
+    margin-top: -153px;
+    position: absolute;
+padding-left: 45em;
+padding-bottom: 3px;
+}
+
+
+#footer {
+        width: 1575px;
+    height:200px;
+     background-image: url(../images/footer-background.jpg);
+     background-size: 1580px;
+     z-index: ;
+    margin-left: 92px;
+border-radius: 40px;
+margin-top:1337px;
+opacity: 100%;
+
+}
+
+#footervida {
+         width: 1575px;
+    height:200px;
+    background-image: url(../images/footer-background.jpg);
+     background-size: 1580px;
+    margin-left: 92px;
+border-radius: 40px;
+margin-top:4035px;
+opacity: 100%;
+}
+}
+
+
+
+#imgpos {
+
+    width:300;
+     height:160;
+  margin-left: 0em;
+}
+
+#imgposbottom {
+ 
+    width:300;
+     height:160;
+     margin-top: -160px;
+      margin-left: 836px;
+      margin-top: -320px;
+    
+}
+
+#icontext {
+    margin-bottom: 30px;
+}
+
+#divwhite {
+    margin-left: 390px;
+    background-color: #E0E0E0;
+    border-radius: 40px;
+    margin-left: 180px;
+    width: 1230px;
+    height: 3780px;
+}
+
+.icontext {
+    margin-left: 13px;
+    padding-top: -2000px;
+}
+
+
+.text-center {
+    text-align: center;
+}
+
+.pricing-box-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.pricing-box {
+    background-color: #ffffff;
+    box-shadow: 0px 2px 15px 0px rgba(0,0,0,0.5);
+    border-radius: 4px;
+    flex: 1;
+    padding: 0 30px 30px;
+    margin: 2%;
+    min-width: 250px;
+    max-width: 350px;
+}
+
+.pricing-box h5 {
+    text-transform: uppercase;
+}
+
+.price {
+    margin: 24px 0;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.price sub, .price sup {
+    font-size: 16px;
+    font-weight: 100;
+}
+
+.features-list {
+    padding: 0;
+    list-style-type: none;
+}
+
+.features-list li {
+    font-weight: 100;
+    padding: 12px 0;
+    font-weight: 100;
+}
+
+.features-list li:not(:last-of-type) {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+    border-radius: 25px;
+    border: none;
+    background-color: #9E8E4D;
+    color: #ffffff;
+    cursor: pointer;
+    padding: 10px 15px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    transition: all 0.1s ease-in-out;
+}
+
+.btn-primary:hover {
+    box-shadow: 0px 2px 15px 0px rgba(0,0,0,0.5);
+    transform: translateY(-3px);
+}
+
+.pricing-box-bg-image1 {
+    background-image: url("https://ak-d.tripcdn.com/images/10061f000001gqu4j1B03_C_750_350.jpg?proc=source%2Ftrip");  
+    background-size: cover;
+    background-position: center center;
+    color: #ffffff;
+}
+
+.pricing-box-bg-image2 {
+    background-image: url("https://media.tacdn.com/media/attractions-splice-spp-674x446/06/e6/6b/7d.jpg");  
+    background-size: cover;
+    background-position: center center;
+    color: #ffffff;
+}
+
+.pricing-box-bg-image3 {
+    background-image: url("https://miviaje.com/wp-content/uploads/2018/11/ciudad-medieval-lucerna.jpg");  
+    background-size: cover;
+    background-position: center center;
+    color: #ffffff;
+}
+
+.pricing-box-bg-image4 {
+    background-image: url("https://st2.depositphotos.com/1402808/6601/i/600/depositphotos_66016481-stock-photo-aerial-view-on-zermatt-valley.jpg");  
+    background-size: cover;
+    background-position: center center;
+    color: #ffffff;
+}
+
+.pricing-box-bg-image5 {
+    background-image: url("https://lamochilaalhombro.com/wp-content/uploads/2019/09/DSC0337-1-768x509.jpg");  
+    background-size: cover;
+    background-position: center center;
+    color: #ffffff;
+}
+
+.pricing-box-bg-image6 {
+    background-image: url("https://d1hirb55zrpywb.cloudfront.net/macs-adventure-tours/routes/WSGSGAG/routeimagegallery/ExplorethehilltoptownofGruyres-rsz-27092019144054475.jpg");  
+    background-size: cover;
+    background-position: center center;
+    color: #ffffff;
+}
+
+.pricing-box-bg-image7 {
+    background-image: url("https://www.hola.com/imagenes/viajes/2014052071384/friburgo-ciudad-puentes-suiza/0-270-649/a_Cathedrale@Croci-&-Du-Fresne-Fotografi-a.jpg");  
+    background-size: cover;
+    background-position: center center;
+    color: #ffffff;
+}
+
+.pricing-box-bg-image8 {
+    background-image: url("https://elviajista.com/wp-content/uploads/2021/01/dondealojarseenzurich-730x422.jpg");  
+    background-size: cover;
+    background-position: center center;
+    color: #ffffff;
+}
+
+.pricing-box-bg-image9 {
+    background-image: url("https://www.lonelyplanet.es/sites/default/files/styles/max_650x650/public/imprescindibles_images/Suiza_Cervino_shutterstock_502404784_Jakl%20Lubos_Shutterstock.jpg?itok=BuzEYFGb");  
+    background-size: cover;
+    background-position: center center;
+    color: #ffffff;
+}
+
+.pricing-box-bg-image10 {
+    background-image: url("https://miviaje.com/wp-content/uploads/2016/09/shutterstock_279295841.jpg");  
+    background-size: cover;
+    background-position: center center;
+    color: #ffffff;
+}
+
+.pricing-box-bg-image11 {
+    background-image: url("https://planificatuviaje.es/wp-content/uploads/2020/10/Lucerna-1000x563.jpg");  
+    background-size: cover;
+    background-position: center center;
+    color: #ffffff;
+}
+
+.pricing-box-bg-image12 {
+    background-image: url("https://i0.wp.com/lacosmopolilla.com/wp-content/uploads/2017/09/Qu%C3%A9-ver-en-Lausanne-la-capital-Ol%C3%ADmpica.jpg?fit=960%2C640&ssl=1");  
+    background-size: cover;
+    background-position: center center;
+    color: #ffffff;
+}
+
+
+.pricing-box-bg-image .features-list li {
+    border-bottom-color: rgba(255, 255, 255, 1);
+}
+
+.pricing-box-bg-image .btn-primary {
+    background-color: #9E8E4D;
+    color: #000;
+}
